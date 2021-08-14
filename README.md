@@ -1,8 +1,8 @@
 # Machine-Learning-Project
 
-##Summer Olympics    
+## Summer Olympics    
 
-###Who will be the next leaders in the Paris Olympics?
+### Who will be the next leaders in the Paris Olympics?
  
 
 Characteristics
