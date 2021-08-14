@@ -5,9 +5,9 @@
 ### Who will be the next leaders in the Paris Olympics?
  
 
-Characteristics
-Country
-Year
+#### Characteristics
+* Country
+* Year
 Gold
 Silver
 Bronze
@@ -49,5 +49,5 @@ Webpage with dropdown for 5/6 different Olympics
 Lightbox revolving picture
 
 
-![image](https://user-images.githubusercontent.com/80181938/129455978-1fc58bdd-cd09-45ed-9244-fcfbd3dedc47.png)
+
 
