@@ -38,15 +38,15 @@ https://www.kaggle.com/nitishabharathi/gdp-per-capita-all-countries. -- GDP info
 
 Random split for the training  
 
-Tools
-Tableau – MapBox/Markers for medal count ‘total’ - 5/6
-Sci-Kit Learn
-Python Pandas
+### Tools
+Tableau – MapBox/Markers for medal count ‘total’ - 5/6  
+Sci-Kit Learn 
+Python Pandas 
 
-‘Deep learning’
+### ‘Deep learning’
 
-Webpage with dropdown for 5/6 different Olympics
-Lightbox revolving picture
+Webpage with dropdown for 5/6 different Olympics     
+Lightbox revolving picture 
 
 
 
