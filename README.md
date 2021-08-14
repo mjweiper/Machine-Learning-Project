@@ -8,14 +8,14 @@
 #### Characteristics
 * Country
 * Year
-Gold
-Silver
-Bronze
-Total medal count
-Rank
-Total of athletes per country
-GDP 
-Total population
+* Gold
+* Silver
+* Bronze
+* Total medal count
+* Rank
+* Total of athletes per country
+* GDP 
+* Total population
 
 -Fund for Training athletes.  
 -Other championship competitions.   
