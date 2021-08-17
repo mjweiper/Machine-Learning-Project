@@ -12,9 +12,8 @@
 * Silver
 * Bronze
 * Total medal count
-* Rank
 * Total of athletes per country
-* GDP 
+* GDP (Billions)
 * Total population
 
 -Fund for Training athletes.  
