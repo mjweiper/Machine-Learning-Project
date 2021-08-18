@@ -2,20 +2,26 @@
 
 ## Summer Olympics    
 
-### Who will be the next leaders in the Paris Olympics?
+### Who will be the next leaders in the Paris Olympics 2024?
  
 
-#### Characteristics
+#### Data
+* 'YearCountry'
 * Country
 * Year
 * Gold
 * Silver
 * Bronze
-* Total medal count
-* Rank
-* Total of athletes per country
-* GDP 
-* Total population
+* 'Total' medal count  
+ 
+#### Characteristics
+* Total Number of 'Athletes' per country
+* Total 'Population' 
+* GDP (Billions)
+
+#### Potential 
+* Latitude
+* Elevation
 
 -Fund for Training athletes.  
 -Other championship competitions.   
