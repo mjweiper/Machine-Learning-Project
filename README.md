@@ -2,12 +2,14 @@
 
 ## Summer Olympics    
 
-### Who will be the next leaders in the Paris Olympics?
+### Who will be the next leaders in the Paris Olympics 2024?
  
 
 #### Characteristics
 * Country
 * Year
+
+
 * Gold
 * Silver
 * Bronze
