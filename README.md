@@ -6,18 +6,18 @@
  
 
 #### Data
-* Country-Year
+* 'YearCountry'
 * Country
 * Year
 * Gold
 * Silver
 * Bronze
-* Total medal count  
+* 'Total' medal count  
  
 #### Characteristics
-* Total Number of athletes per country
+* Total Number of 'Athletes' per country
+* Total 'Population' 
 * GDP (Billions)
-* Total population 
 
 #### Potential 
 * Latitude
