@@ -15,7 +15,7 @@
 * Total medal count  
  
 #### Characteristics
-* Total of athletes per country
+* Total Number of athletes per country
 * GDP (Billions)
 * Total population 
 
