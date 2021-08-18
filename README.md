@@ -5,18 +5,23 @@
 ### Who will be the next leaders in the Paris Olympics 2024?
  
 
-#### Characteristics
+#### Data
+* Country-Year
 * Country
 * Year
-
-
 * Gold
 * Silver
 * Bronze
-* Total medal count
+* Total medal count  
+ 
+#### Characteristics
 * Total of athletes per country
 * GDP (Billions)
-* Total population
+* Total population 
+
+#### Potential 
+* Latitude
+* Elevation
 
 -Fund for Training athletes.  
 -Other championship competitions.   
