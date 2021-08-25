@@ -39,7 +39,8 @@ https://www.kaggle.com/divyansh22/summer-olympics-medals  Tommy
 https://www.kaggle.com/rio2016/olympic-games Matt  
 https://en.wikipedia.org/wiki/2012_Summer_Olympics_medal_table Shannan  
 https://www.kaggle.com/berkayalan/2021-olympics-medals-in-tokyo Hema  
-https://www.kaggle.com/nitishabharathi/gdp-per-capita-all-countries. -- GDP information for all datasets   
+https://www.kaggle.com/nitishabharathi/gdp-per-capita-all-countries. -- GDP information for all datasets
+https://www.medalspercapita.com/#medals-by-gdp:2020.  
 
 
 Random split for the training  
