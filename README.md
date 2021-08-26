@@ -3,7 +3,9 @@
 ## Summer Olympics    
 
 ### Who will be the next leaders in the Paris Olympics 2024?
- 
+
+## Link to tableau
+https://public.tableau.com/views/MachineLearning_16300022155340/OlympicMedalPredictor?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 #### Data
 * 'YearCountry'
